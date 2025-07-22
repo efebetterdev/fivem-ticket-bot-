@@ -1,0 +1,16 @@
+{
+  "name": "Efebetter dev",
+  "version": "1.0.0",
+  "description": "Efebetter dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "croxydb": "^0.0.26",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.0.0"
+  }
+}
