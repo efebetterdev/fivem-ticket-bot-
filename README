@@ -14,7 +14,6 @@
 Discord sunucunuz için gelişmiş ticket, bakım ve Polis Departmanı başvuru sistemi!  
 Sunucunuzda profesyonel destek, başvuru ve otomasyon sistemleri kurun.
 
----
 
 ## 🚀 Özellikler
 
@@ -24,7 +23,7 @@ Sunucunuzda profesyonel destek, başvuru ve otomasyon sistemleri kurun.
 - ℹ️ **Bilgi Komutları:** IP, Workshop ve Steam grubu bilgisi.
 - 🔒 **Rol & Kanal Yönetimi:** Tüm ayarlar `.env` dosyasından kolayca yönetilir.
 
----
+
 
 ## 📦 Kurulum
 
@@ -39,7 +38,7 @@ Sunucunuzda profesyonel destek, başvuru ve otomasyon sistemleri kurun.
    ```
    veya `start.bat` dosyasını çalıştırın.
 
----
+
 
 ## 💡 Komutlar
 
@@ -53,26 +52,26 @@ Sunucunuzda profesyonel destek, başvuru ve otomasyon sistemleri kurun.
 | `!aktif`             | Sunucunun aktif olduğunu duyurur (Yönetici)            |
 | `!help`              | Yardım menüsünü gösterir                               |
 
----
+
 
 ## 🛠️ Katkı
 
 Katkıda bulunmak için pull request gönderebilirsiniz.
 
----
+
 
 ## 📄 Lisans
 
 MIT Lisansı — Ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.
 
----
+
 
 ## 💬 Destek ve İletişim
 
 Herhangi bir sorunuz veya öneriniz varsa, Discord destek sunucumuza katılabilirsiniz:  
 [🔗 Discord Destek Sunucusu](https://discord.gg/GSdAd5Ft)
 
----
+
 
 **Efebetter.dev ile Discord sunucunuzda profesyonel destek ve otomasyon sistemleri kurun!**
 
