@@ -79,6 +79,7 @@ Herhangi bir sorunuz veya öneriniz varsa, Discord destek sunucumuza katılabili
 
 **Efebetter.dev ile Discord sunucunuzda profesyonel destek ve otomasyon sistemleri kurun!**
 
+
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/808741421229539348?hideDiscrim=true&borderRadius=10px" alt="Discord Presence" />
+  <img src="https://lanyard.cnrad.dev/api/808741421229539348?hideDiscrim=true&borderRadius=10px" alt="Discord Presence">
 </p>
